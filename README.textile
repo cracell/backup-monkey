@@ -1,0 +1,21 @@
+Status: Early Development. Non functional.
+
+h1. BackupMonkey
+
+Everything needs to backup. I'm lazy. Install backup monkey. Glance over the settings config. You have backups.
+
+Currently Support DBs: MySQL.
+
+h2. Goals
+
+* Easy backup for Rails apps using MySQL Databases to S3 
+* Setup with install plus Single Rake
+* Super simple config yml
+* Support MySQL Binary Log backing up for nearly lossless live servers.
+
+h2. Example
+
+Example goes here.
+
+
+Copyright (c) 2009 Eric Cranston, released under the WTFPL license
